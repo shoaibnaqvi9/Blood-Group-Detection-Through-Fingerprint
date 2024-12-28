@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "biobloodtracker",
+  "private_key_id": "b9af200f9cbf6b63372037e0aba09759c41e9c21",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQD6P0GHdvPZxhgV\nyNPo5ZiV3h739jLvoW4TqUkBaOoZhjQyq46uRsMaFblZyA36MXPezdEqyFlnYJsk\nF0qGmqMp4P65vaFYM5/8Qm/K5MHWgm4NmqC0ViC1Y5ay5wEM0ChBuhZxeCrT+gjn\n1CF6Tu2PyicLfcTU0sE3R/jezTvNSKl3eYsfWzvHv+yvOky6YtmkyDWmvLJ3FiUe\nSrTiXXcQKDRTaOcG+S7KTDRTVVQHltNo755JpqC5NKKB+HSU4Gi35eu8eVR22sN1\nhkqcFykROF5OSUIUVbt45eDE44eFv1xBShfkrv/7SFGz056qT/eZDeAK+Ulk1SmT\nWFpW28PdAgMBAAECggEABqxyry3nLWbYxBX1vseGtPJ2QXcdnyHfOWOBmKnHWnRn\nhnVoSfIFqHetWH1bEBHLDQVQn3M13SmooYMEgAf2M3r2WBY8TAmeaeAMsqy8lZ+n\nVzIJOJ32Y9f60B0UfFa9yBjyGccSX1JS8/nGhcg+kh/aQDZzrhhLwlFnS+vNvTj2\nGgFTsn5X7bljvonNl/CSe7Er+BHbvIXbIRAutHocLvN7i4WCBuhwpqC4M2abdX26\nXk3vmOmQrKT/9alK6Xzx3i2G77k9Zejzd49ADSiBvuARSpAaiuCOSuN+jHHKh63H\nZTDkEtip2CKRauJhkydnxuq7aoXrdzKFPLQ+rkrrwQKBgQD9nROVOhinU296BjyK\nozQI8GcYji3KTdyFCuuJL90cUtTvoAV0roZw9WJOACAcQ90+w3xgVDjMBNv0e2kk\npQztRM8PDHgjdDrMlJhG4BM9dGb10iPVA0BemqENwhoeKuI+DbIMKkXIaVYlcC1u\n1hHxwzfu95+Yy7+EYLbm5oD1wQKBgQD8mhHtkqSLuq9eILCxikAlqE8loRjp76Wz\nbA2CPXWHS5m5EuG8nsK1LgaGHE7obzf4wazSGlESmH2mM8iJRuOm7zRu3lZ+p/rC\nedp7DQsl9o+LLiCmc2PGVnIFTAwY+1FC0w/uw8mITotNxvS9UV7hNMlCcO9HMViq\nsbx0pE0tHQKBgQCBL0z1W5WJTiffqWOXXxC3aPWq/Wl3vneQ0YIu7FGeBtduhD2j\nNO9IhMYhY1D39N2zBdLKIryXt/XusBpbzzMpfT5XtQtRS/hTk3GJ0MQcLrnvh642\n6CQWzH8zSecR7Ng3sbQ7HCFVt8po4Z5S8fpMAxvvvvTt2QNiQ/2G2m1gQQKBgQCG\nt4SoN3UaME4m3The92SOsNzFLM2ktfKhZhcuRqjPpzoswi0x81nUVt+T1rUesXIg\ncOpCg1aJnFomsadZzzzKYviLyHhIxD2wSlyDE8nGTWDw0YEIRLIJrUDSImSxThdg\nlEADDtgEoh8ZM+qCrUr0wLo1fRWf2ml3X6MqchXW4QKBgQDkYBRd0B0Y+1SS/yaJ\nm3RyXOTlnMETHEJMEIw2PCeBc8jRbYOYRaInwO+3MKO73nRnNOU/QQWagcCzHBgw\nh7vF8nQ+eMG3HH9cHFnkQLuiboOnDbFY59l4O04HZSRFz6T/Jm801w5tD6BqvFnF\nTDt2/36z/nZaT4ZRgmOxv4tKMg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "drive-access-service@biobloodtracker.iam.gserviceaccount.com",
+  "client_id": "100412770290103854552",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/drive-access-service%40biobloodtracker.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
