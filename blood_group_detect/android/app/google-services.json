@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526021589495",
+    "project_id": "biobloodtracker",
+    "storage_bucket": "biobloodtracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526021589495:android:ba17d9cd98733d48e056f2",
+        "android_client_info": {
+          "package_name": "com.bio_blood_tracker.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526021589495-5l2ljdaccum9digjrfnhqoalbos47qot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDicZpdodWW8Gb4WCkpPHTGCSn1Gkz08_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526021589495-5l2ljdaccum9digjrfnhqoalbos47qot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
