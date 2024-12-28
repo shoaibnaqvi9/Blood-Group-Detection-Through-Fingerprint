@@ -59,7 +59,8 @@ def handle_user_feedback(image_path, true_blood_group):
     save_incorrect_classification(image_path, true_blood_group)
     print("Incorrect classification saved. Thank you for your feedback!")
 
-image_path = r"C:\FYPproject\dataset\incorrect_classifications\A-\cluster_1_40.bmp"
+image_path = r"C:\Users\Shoaib Naqvi\Downloads\new_finger_A+.bmp"
+# image_path = r"C:\blood-group-through-fingerprint\Blood-Group-Detection-Through-Fingerprint\dataset\test\A-\cluster_1_1364.bmp"
 print("Starting prediction...")
 is_fingerprint, predicted_blood_group = predict_image(image_path)
 print("Prediction complete.")

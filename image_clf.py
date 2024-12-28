@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 from tensorflow.keras.layers import Conv2D, MaxPool2D, Dense, Flatten, Input
 from tensorflow.keras.models import Sequential
 
-train_dataset_path = r"C:\FYPproject\dataset\train"
-test_dataset_path = r"C:\FYPproject\dataset\test"
+train_dataset_path = r"C:\blood-group-through-fingerprint\Blood-Group-Detection-Through-Fingerprint\dataset\train"
+test_dataset_path = r"C:\blood-group-through-fingerprint\Blood-Group-Detection-Through-Fingerprint\dataset\test"
 
 # Initialize ImageDataGenerator for training data with augmentation
 train_datagen = ImageDataGenerator(
@@ -48,7 +48,7 @@ cnn.compile(optimizer="adam", loss="categorical_crossentropy",
 # Train the model using the generated and augmented data
 history = cnn.fit(
     train_generator,
-    epochs=30,
+    epochs=5,
     validation_data=test_generator
 )
 # Save the trained model to a file
